@@ -33,6 +33,3 @@ class Solution:
                 r -= 1
 
         return out
-
-
-print(Solution().threeSum([0] * 10000))

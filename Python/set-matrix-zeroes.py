@@ -34,11 +34,3 @@ class Solution:
             for i in range(n):
                 matrix[i][0] = 0
 
-
-a = [
-    [1], [0]
-]
-
-Solution().setZeroes(a)
-print(a)
-
