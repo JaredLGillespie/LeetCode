@@ -6,3 +6,4 @@
 | #        |  Problem      | Difficulty      | Solution |      
 |---------------- | --------------- | --------------- | -------- |
 15 | [3Sum](https://leetcode.com/problems/3sum) | Medium | [Python](./Python/3sum.py)
+73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | Medium | [Python](./Python/set-matrix-zeroes.py)
