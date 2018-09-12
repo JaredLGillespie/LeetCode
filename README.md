@@ -5,4 +5,4 @@
 
 | #        |  Problem      | Difficulty      | Solution |      
 |---------------- | --------------- | --------------- | -------- |
-15 | [3Sum](https://leetcode.com/problems/3sum) | Medium | [Python](3sum/3sum.py)
+15 | [3Sum](https://leetcode.com/problems/3sum) | Medium | [Python](./Python/3sum.py)
