@@ -10,6 +10,7 @@
 15 | [3Sum](https://leetcode.com/problems/3sum) | Medium | [Python](./Python/3sum.py)
 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | Medium | [Python](./Python/group-anagrams.py)
 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | Medium | [Python](./Python/set-matrix-zeroes.py)
+908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i) | Easy | [Python](./Python/smallest-range-i.py)
 909 | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders) | Medium | [Python](./Python/snakes-and-ladders.py)
 910 | [Smallest Range II](https://leetcode.com/problems/smallest-range-ii) | Medium | [Python](./Python/smallest-range-ii.py)
 911 | [Online Election](https://leetcode.com/problems/online-election) | Medium | [Python](./Python/online-election.py)
