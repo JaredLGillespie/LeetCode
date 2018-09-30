@@ -15,3 +15,4 @@
 910 | [Smallest Range II](https://leetcode.com/problems/smallest-range-ii) | Medium | [Python](./Python/smallest-range-ii.py)
 911 | [Online Election](https://leetcode.com/problems/online-election) | Medium | [Python](./Python/online-election.py)
 913 | [Cat and Mouse](https://leetcode.com/problems/cat-and-mouse) | Hard | [Python](./Python/cat-and-mouse.py)
+914 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards) | Easy | [Python](./Python/x-of-a-kind-in-a-deck-of-cards.py)
