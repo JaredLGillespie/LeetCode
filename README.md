@@ -14,3 +14,4 @@
 909 | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders) | Medium | [Python](./Python/snakes-and-ladders.py)
 910 | [Smallest Range II](https://leetcode.com/problems/smallest-range-ii) | Medium | [Python](./Python/smallest-range-ii.py)
 911 | [Online Election](https://leetcode.com/problems/online-election) | Medium | [Python](./Python/online-election.py)
+913 | [Cat and Mouse](https://leetcode.com/problems/cat-and-mouse) | Hard | [Python](./Python/cat-and-mouse.py)
