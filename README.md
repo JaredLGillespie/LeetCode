@@ -23,6 +23,7 @@
 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy | [Python](./Python/valid-parenthesis.py)
 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Easy | [Python](./Python/merge-two-sorted-lists.py)
 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | Medium | [Python](./Python/generate-parentheses.py)
+26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy | [Python](./Python/remove-duplicates-from-sorted-array.py)
 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | Medium | [Python](./Python/group-anagrams.py)
 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | Medium | [Python](./Python/powx-n.py)
 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy | [Python](./Python/sqrtx.py)
