@@ -34,6 +34,7 @@
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | [Python](./Python/climbing-stairs.py)
 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | Medium | [Python](./Python/set-matrix-zeroes.py)
 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | Easy | [Python](./Python/first-bad-version.py)
+374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lowe) | Easy | [Python](./Python/guess-number-higher-or-lower.py)
 908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i) | Easy | [Python](./Python/smallest-range-i.py)
 909 | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders) | Medium | [Python](./Python/snakes-and-ladders.py)
 910 | [Smallest Range II](https://leetcode.com/problems/smallest-range-ii) | Medium | [Python](./Python/smallest-range-ii.py)
