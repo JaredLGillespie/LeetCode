@@ -25,6 +25,7 @@
 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | Medium | [Python](./Python/generate-parentheses.py)
 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy | [Python](./Python/remove-duplicates-from-sorted-array.py)
 27 | [Remove Element](https://leetcode.com/problems/remove-element) | Easy | [Python](./Python/remove-element.py)
+28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | Easy | [Python](./Python/implement-strstr.py)
 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | Medium | [Python](./Python/group-anagrams.py)
 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | Medium | [Python](./Python/powx-n.py)
 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy | [Python](./Python/sqrtx.py)
