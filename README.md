@@ -28,6 +28,7 @@
 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | Easy | [Python](./Python/implement-strstr.py)
 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | Medium | [Python](./Python/divide-two-integers.py)
 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy | [Python](./Python/search-insert-position.py)
+38 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | Easy | [Python](./Python/count-and-say.py)
 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | Medium | [Python](./Python/group-anagrams.py)
 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | Medium | [Python](./Python/powx-n.py)
 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy | [Python](./Python/sqrtx.py)
