@@ -13,6 +13,7 @@
 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | Medium | [Python](./Python/string-to-integer-atoi.py)
 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | Easy | [Python](./Python/palindrome-number.py)
 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman) | Medium | [Python](./Python/integer-to-roman.py)
+13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | Easy | [Python](./Python/roman-to-integer.py)
 15 | [3Sum](https://leetcode.com/problems/3sum) | Medium | [Python](./Python/3sum.py)
 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | Medium | [Python](./Python/group-anagrams.py)
 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | Medium | [Python](./Python/powx-n.py)
