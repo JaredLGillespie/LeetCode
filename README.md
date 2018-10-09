@@ -20,6 +20,7 @@
 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | Medium | [Python](./Python/letter-combinations-of-a-phone-number.py)
 18 | [4Sum](https://leetcode.com/problems/4sum) | Medium | [Python](./Python/4sum.py)
 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | Medium | [Python](./Python/remove-nth-node-from-end-of-list.py)
+20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy | [Python](./Python/valid-parenthesis.py)
 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | Medium | [Python](./Python/group-anagrams.py)
 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | Medium | [Python](./Python/powx-n.py)
 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy | [Python](./Python/sqrtx.py)
