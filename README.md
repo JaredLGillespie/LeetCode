@@ -43,6 +43,7 @@
 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | Medium | [Python](./Python/set-matrix-zeroes.py)
 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | Easy | [Python](./Python/remove-duplicates-from-sorted-list.py)
 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Easy | [Python](./Python/merge-sorted-array.py)
+100 | [Same Tree](https://leetcode.com/problems/same-tree) | Easy | [Python](./Python/same-tree.py)
 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | Easy | [Python](./Python/first-bad-version.py)
 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lowe) | Easy | [Python](./Python/guess-number-higher-or-lower.py)
 824 | [Goat Latin](https://leetcode.com/problems/goat-latin) | Easy | [Python](./Python/goat-latin.py)
