@@ -50,6 +50,7 @@
 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | Easy | [Python](./Python/convert-sorted-array-to-binary-search-tree.py)
 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | Easy | [Python](./Python/balanced-binary-tree.py)
 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | Easy | [Python](./Python/minimum-depth-of-binary-tree.py)
+112 | [Path Sum](https://leetcode.com/problems/path-sum) | Easy | [Python](./Python/path-sum.py)
 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | Easy | [Python](./Python/first-bad-version.py)
 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lowe) | Easy | [Python](./Python/guess-number-higher-or-lower.py)
 824 | [Goat Latin](https://leetcode.com/problems/goat-latin) | Easy | [Python](./Python/goat-latin.py)
