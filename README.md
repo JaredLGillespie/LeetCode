@@ -36,6 +36,7 @@
 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | Medium | [Python](./Python/powx-n.py)
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Easy | [Python](./Python/maximum-subarray.py)
 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | Easy | [Python](./Python/length-of-last-word.py)
+66 | [Plus One](https://leetcode.com/problems/plus-one) | Easy | [Python](./Python/plus-one.py)
 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy | [Python](./Python/sqrtx.py)
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | [Python](./Python/climbing-stairs.py)
 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | Medium | [Python](./Python/set-matrix-zeroes.py)
