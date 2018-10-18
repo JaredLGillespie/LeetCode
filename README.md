@@ -29,6 +29,7 @@
 27 | [Remove Element](https://leetcode.com/problems/remove-element) | Easy | [Python](./Python/remove-element.py)
 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | Easy | [Python](./Python/implement-strstr.py)
 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | Medium | [Python](./Python/divide-two-integers.py)
+34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | Medium | [Python](./Python/find-first-and-last-position-of-element-in-sorted-array.py)
 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy | [Python](./Python/search-insert-position.py)
 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | Medium | [Python](./Python/valid-sudoku.py)
 38 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | Easy | [Python](./Python/count-and-say.py)
