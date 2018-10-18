@@ -33,7 +33,7 @@
 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy | [Python](./Python/search-insert-position.py)
 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | Medium | [Python](./Python/valid-sudoku.py)
 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | Hard | [Python](./Python/sudoku-solver.py)
-38 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | Easy | [Python](./Python/count-and-say.py)
+38 | [Count and Say](https://leetcode.com/problems/count-and-say/description) | Easy | [Python](./Python/count-and-say.py)
 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | Medium | [Python](./Python/group-anagrams.py)
 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | Medium | [Python](./Python/powx-n.py)
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Easy | [Python](./Python/maximum-subarray.py)
