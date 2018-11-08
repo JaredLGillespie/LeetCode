@@ -10,6 +10,7 @@
 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Medium |[Python](./Python/longest-substring-without-repeating-characters.py)
 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | Hard | [Python](./Python/median-of-two-sorted-arrays.py)
 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | Medium | [Python](./Python/longest-palindromic-substring.py)
+6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Medium | [Python](./Python/zigzag-conversion.py)
 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | Easy | [Python](./Python/reverse-integer.py)
 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | Medium | [Python](./Python/string-to-integer-atoi.py)
 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | Easy | [Python](./Python/palindrome-number.py)
