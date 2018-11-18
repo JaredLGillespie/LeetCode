@@ -77,3 +77,4 @@
 915 | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals) | Medium | [Python](./Python/partition-array-into-disjoint-intervals.py)
 916 | [Word Subsets](https://leetcode.com/problems/word-subsets) | Medium | [Python](./Python/word-subsets.py)
 941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | Easy | [Python](./Python/valid-mountain-array.py)
+944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | Medium | [Python](./Python/delete-columns-to-make-sorted.py)
