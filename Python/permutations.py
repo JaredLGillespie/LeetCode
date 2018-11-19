@@ -12,8 +12,7 @@ class Solution(object):
         for i in range(len(nums)):
             new_out = []
             for j in range(i + 1):
-                out_copy = out[:]
-                for o in out_copy:
+                for o in out:
                     new_out.append(o[:j] + [nums[i]] + o[j:])
             out = new_out
         return out
