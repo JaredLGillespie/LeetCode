@@ -50,6 +50,7 @@
 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy | [Python](./Python/sqrtx.py)
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | [Python](./Python/climbing-stairs.py)
 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | Medium | [Python](./Python/set-matrix-zeroes.py)
+78 | [Subsets](https://leetcode.com/problems/subsets/) | Medium | [Python](./Python/subsets.py)
 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | Easy | [Python](./Python/remove-duplicates-from-sorted-list.py)
 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Easy | [Python](./Python/merge-sorted-array.py)
 100 | [Same Tree](https://leetcode.com/problems/same-tree) | Easy | [Python](./Python/same-tree.py)
