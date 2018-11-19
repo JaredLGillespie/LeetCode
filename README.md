@@ -40,6 +40,7 @@
 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [Python](./Python/combination-sum.py)
 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium | [Python](./Python/combination-sum-ii.py)
 46 | [Permutations](https://leetcode.com/problems/permutations/) | Medium | [Python](./Python/permutations.py)
+47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | Medium | [Python](./Python/permutations-ii.py)
 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | Medium | [Python](./Python/group-anagrams.py)
 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | Medium | [Python](./Python/powx-n.py)
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Easy | [Python](./Python/maximum-subarray.py)
