@@ -43,6 +43,7 @@
 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | Medium | [Python](./Python/permutations-ii.py)
 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | Medium | [Python](./Python/group-anagrams.py)
 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | Medium | [Python](./Python/powx-n.py)
+51 | [N-Queens](https://leetcode.com/problems/n-queens/) | Medium | [Python](./Python/n-queens.py)
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Easy | [Python](./Python/maximum-subarray.py)
 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | Easy | [Python](./Python/length-of-last-word.py)
 66 | [Plus One](https://leetcode.com/problems/plus-one) | Easy | [Python](./Python/plus-one.py)
