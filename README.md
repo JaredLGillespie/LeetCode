@@ -91,3 +91,4 @@
 942 | [DI String Match](https://leetcode.com/problems/di-string-match/) | Easy | [Python](./Python/di-string-match.py)
 944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | Medium | [Python](./Python/delete-columns-to-make-sorted.py)
 945 | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | Medium | [Python](./Python/minimum-increment-to-make-array-unique.py)
+946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | Medium | [Python](./Python/validate-stack-sequences.py)
