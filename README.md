@@ -92,4 +92,5 @@
 944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | Medium | [Python](./Python/delete-columns-to-make-sorted.py)
 945 | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | Medium | [Python](./Python/minimum-increment-to-make-array-unique.py)
 946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | Medium | [Python](./Python/validate-stack-sequences.py)
+947 | [Most Stones Removed with Same Row or Columns](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | Hard | [Python](./Python/most-stones-removed-with-same-row-or-column.py)
 948 | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | Medium | [Python](./Python/bag-of-tokens.py)
