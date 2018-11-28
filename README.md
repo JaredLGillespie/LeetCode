@@ -83,6 +83,7 @@
 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lowe) | Easy | [Python](./Python/guess-number-higher-or-lower.py)
 418 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | [Python](./Python/fizz-buzz.py)
 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | Easy | [Python](./Python/distribute-candies.py)
+686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | Easy | [Python](./Python/repeated-string-match.py)
 741 | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/) | Hard | [Python](./Python/cherry-pickup.py)
 824 | [Goat Latin](https://leetcode.com/problems/goat-latin) | Easy | [Python](./Python/goat-latin.py)
 868 | [Binary Gap](https://leetcode.com/problems/binary-gap/) | Easy | [Python](./Python/binary-gap.py)
