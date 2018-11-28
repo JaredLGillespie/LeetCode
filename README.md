@@ -39,6 +39,7 @@
 38 | [Count and Say](https://leetcode.com/problems/count-and-say/description) | Easy | [Python](./Python/count-and-say.py)
 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [Python](./Python/combination-sum.py)
 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium | [Python](./Python/combination-sum-ii.py)
+42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [Python](./Python/trapping-rain-water.py)
 46 | [Permutations](https://leetcode.com/problems/permutations/) | Medium | [Python](./Python/permutations.py)
 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | Medium | [Python](./Python/permutations-ii.py)
 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | Medium | [Python](./Python/group-anagrams.py)
