@@ -86,6 +86,7 @@
 681 | [Next Closest Time](https://leetcode.com/problems/next-closest-time/) | Medium | [Python](./Python/next-closest-time.py)
 683 | [K Empty Slots](https://leetcode.com/problems/k-empty-slots/) | Hard | [Python](./Python/k-empty-slots.py)
 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | Easy | [Python](./Python/repeated-string-match.py)
+687 | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | Easy | [Python](./Python/longest-univalue-path.py)
 741 | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/) | Hard | [Python](./Python/cherry-pickup.py)
 824 | [Goat Latin](https://leetcode.com/problems/goat-latin) | Easy | [Python](./Python/goat-latin.py)
 868 | [Binary Gap](https://leetcode.com/problems/binary-gap/) | Easy | [Python](./Python/binary-gap.py)
