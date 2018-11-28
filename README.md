@@ -85,6 +85,7 @@
 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | Easy | [Python](./Python/distribute-candies.py)
 741 | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/) | Hard | [Python](./Python/cherry-pickup.py)
 824 | [Goat Latin](https://leetcode.com/problems/goat-latin) | Easy | [Python](./Python/goat-latin.py)
+868 | [Binary Gap](https://leetcode.com/problems/binary-gap/) | Easy | [Python](./Python/binary-gap.py)
 908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i) | Easy | [Python](./Python/smallest-range-i.py)
 909 | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders) | Medium | [Python](./Python/snakes-and-ladders.py)
 910 | [Smallest Range II](https://leetcode.com/problems/smallest-range-ii) | Medium | [Python](./Python/smallest-range-ii.py)
