@@ -82,6 +82,7 @@
 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium | [Python](./Python/coin-change.py)
 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lowe) | Easy | [Python](./Python/guess-number-higher-or-lower.py)
 418 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | [Python](./Python/fizz-buzz.py)
+482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | Easy | [Python](./Python/license-key-formatting.py)
 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | Easy | [Python](./Python/distribute-candies.py)
 681 | [Next Closest Time](https://leetcode.com/problems/next-closest-time/) | Medium | [Python](./Python/next-closest-time.py)
 683 | [K Empty Slots](https://leetcode.com/problems/k-empty-slots/) | Hard | [Python](./Python/k-empty-slots.py)
