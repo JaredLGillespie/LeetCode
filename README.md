@@ -26,6 +26,7 @@
 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy | [Python](./Python/valid-parenthesis.py)
 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Easy | [Python](./Python/merge-two-sorted-lists.py)
 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | Medium | [Python](./Python/generate-parentheses.py)
+23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [Python](./Python/merge-k-sorted-lists.py)
 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | Medium | [Python](./Python/swap-nodes-in-pairs.py)
 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy | [Python](./Python/remove-duplicates-from-sorted-array.py)
 27 | [Remove Element](https://leetcode.com/problems/remove-element) | Easy | [Python](./Python/remove-element.py)
