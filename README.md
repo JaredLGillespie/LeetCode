@@ -92,6 +92,7 @@
 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | Medium | [Python](./Python/game-of-life.py)
 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium | [Python](./Python/coin-change.py)
 340 | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | Hard | [Python](./Python/longest-substring-with-at-most-k-distinct-characters.py)
+361 | [Bomb Enemy](https://leetcode.com/problems/bomb-enemy/) | Medium | [Python](./Python/bomb-enemy.py)
 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lowe) | Easy | [Python](./Python/guess-number-higher-or-lower.py)
 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | Medium | [Python](./Python/evaluate-division.py)
 418 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | [Python](./Python/fizz-buzz.py)
