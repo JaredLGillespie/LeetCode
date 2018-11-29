@@ -81,6 +81,7 @@
 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | [Python](./Python/linked-list-cycle.py)
 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | Medium | [Python](./Python/linked-list-cycle-ii.py)
 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | Hard | [Python](./Python/lru-cache.py)
+212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | Hard | [Python](./Python/word-search-ii.py)
 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Medium | [Python](./Python/combination-sum-iii.py)
 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | Easy | [Python](./Python/first-bad-version.py)
 285 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | Medium | [Python](./Python/inorder-successor-in-bst.py)
