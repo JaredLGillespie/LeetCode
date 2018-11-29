@@ -89,6 +89,7 @@
 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lowe) | Easy | [Python](./Python/guess-number-higher-or-lower.py)
 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | Medium | [Python](./Python/evaluate-division.py)
 418 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | [Python](./Python/fizz-buzz.py)
+425 | [Word Squares](https://leetcode.com/problems/word-squares/) | Hard | [Python](./Python/word-squares.py)
 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | Easy | [Python](./Python/license-key-formatting.py)
 498 | [Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/) | Hard | [Python](./Python/robot-room-cleaner.py)
 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | Easy | [Python](./Python/distribute-candies.py)
