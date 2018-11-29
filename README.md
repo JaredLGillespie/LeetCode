@@ -3,8 +3,8 @@
 ![Github](https://img.shields.io/badge/languages-python-green.svg?longCache=true&style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)
 
-| #        |  Problem      | Difficulty      | Solution |      
-|---------------- | --------------- | --------------- | -------- |
+| # | Problem | Difficulty | Solution |      
+|---|---------|------------|----------|
 1 | [Two Sum](https://leetcode.com/problems/two-sum) | Easy | [Python](./Python/two-sum.py)
 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | Medium | [Python](./Python/add-two-numbers.py)
 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Medium |[Python](./Python/longest-substring-without-repeating-characters.py)
