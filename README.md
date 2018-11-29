@@ -57,6 +57,7 @@
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | [Python](./Python/climbing-stairs.py)
 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | Medium | [Python](./Python/set-matrix-zeroes.py)
 78 | [Subsets](https://leetcode.com/problems/subsets/) | Medium | [Python](./Python/subsets.py)
+79 | [Word Search](https://leetcode.com/problems/word-search/) | Medium | [Python](./Python/word-search.py)
 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | Easy | [Python](./Python/remove-duplicates-from-sorted-list.py)
 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Easy | [Python](./Python/merge-sorted-array.py)
 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | Medium | [Python](./Python/subsets-ii.py)
