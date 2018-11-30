@@ -113,6 +113,7 @@
 729 | [My Calendar I](https://leetcode.com/problems/my-calendar-i/description/) | Medium | [Python](./Python/my-calendar-i.py)
 731 | [My Calendar II](https://leetcode.com/problems/my-calendar-ii/) | Medium | [Python](./Python/my-calendar-ii.py)
 741 | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/) | Hard | [Python](./Python/cherry-pickup.py)
+794 | [Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/) | Medium | [Python](./Python/valid-tic-tac-toe-state.py)
 824 | [Goat Latin](https://leetcode.com/problems/goat-latin) | Easy | [Python](./Python/goat-latin.py)
 868 | [Binary Gap](https://leetcode.com/problems/binary-gap/) | Easy | [Python](./Python/binary-gap.py)
 908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i) | Easy | [Python](./Python/smallest-range-i.py)
