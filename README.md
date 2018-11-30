@@ -111,6 +111,7 @@
 498 | [Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/) | Hard | [Python](./Python/robot-room-cleaner.py)
 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | Easy | [Python](./Python/distribute-candies.py)
 616 | [Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/) | Medium | [Python](./Python/add-bold-tag-in-string.py)
+659 | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | Medium | [Python](./Python/split-array-into-consecutive-subsequences.py)
 681 | [Next Closest Time](https://leetcode.com/problems/next-closest-time/) | Medium | [Python](./Python/next-closest-time.py)
 683 | [K Empty Slots](https://leetcode.com/problems/k-empty-slots/) | Hard | [Python](./Python/k-empty-slots.py)
 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | Easy | [Python](./Python/repeated-string-match.py)
