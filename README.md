@@ -137,6 +137,7 @@
 914 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards) | Easy | [Python](./Python/x-of-a-kind-in-a-deck-of-cards.py)
 915 | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals) | Medium | [Python](./Python/partition-array-into-disjoint-intervals.py)
 916 | [Word Subsets](https://leetcode.com/problems/word-subsets) | Medium | [Python](./Python/word-subsets.py)
+929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | Easy | [Python](./Python/unique-email-addresses.py)
 941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | Easy | [Python](./Python/valid-mountain-array.py)
 942 | [DI String Match](https://leetcode.com/problems/di-string-match/) | Easy | [Python](./Python/di-string-match.py)
 944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | Medium | [Python](./Python/delete-columns-to-make-sorted.py)
