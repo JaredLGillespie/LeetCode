@@ -27,7 +27,3 @@ class MyCalendarTwo(object):
 # Your MyCalendarTwo object will be instantiated and called as such:
 # obj = MyCalendarTwo()
 # param_1 = obj.book(start,end)
-
-cal = MyCalendarTwo()
-for booking in [[10,20],[50,60],[10,40],[5,15],[5,10],[25,55]]:
-    print(cal.book(booking[0], booking[1]))
