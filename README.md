@@ -94,6 +94,7 @@
 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard | [Python](./Python/find-median-from-data-stream.py)
 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium | [Python](./Python/coin-change.py)
 340 | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | Hard | [Python](./Python/longest-substring-with-at-most-k-distinct-characters.py)
+346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | Easy | [Python](./Python/moving-average-from-data-stream.py)
 348 | [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) | Medium | [Python](./Python/design-tic-tac-toe.py)
 361 | [Bomb Enemy](https://leetcode.com/problems/bomb-enemy/) | Medium | [Python](./Python/bomb-enemy.py)
 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lowe) | Easy | [Python](./Python/guess-number-higher-or-lower.py)
