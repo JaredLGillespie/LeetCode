@@ -90,6 +90,7 @@
 212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | Hard | [Python](./Python/word-search-ii.py)
 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | [Python](./Python/kth-largest-element-in-an-array.py)
 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Medium | [Python](./Python/combination-sum-iii.py)
+250 | [Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/) | Medium | [Python](./Python/count-univalue-subtrees.py)
 276 | [Paint Fence](https://leetcode.com/problems/paint-fence/) | Easy | [Python](./Python/paint-fence.py)
 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | Easy | [Python](./Python/first-bad-version.py)
 284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | Medium | [Python](./Python/peeking-iterator.py)
