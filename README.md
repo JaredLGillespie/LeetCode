@@ -131,6 +131,7 @@
 794 | [Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/) | Medium | [Python](./Python/valid-tic-tac-toe-state.py)
 824 | [Goat Latin](https://leetcode.com/problems/goat-latin) | Easy | [Python](./Python/goat-latin.py)
 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Easy | [Python](./Python/backspace-string-compare.py)
+854 | [K-Similar Strings](https://leetcode.com/problems/k-similar-strings/) | Hard | [Python](./Python/k-similar-strings.py)
 868 | [Binary Gap](https://leetcode.com/problems/binary-gap/) | Easy | [Python](./Python/binary-gap.py)
 904 | [Fruit into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | Medium | [Python](./Python/fruit-into-baskets.py)
 908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i) | Easy | [Python](./Python/smallest-range-i.py)
