@@ -89,6 +89,7 @@
 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) | Hard | [Python](./Python/longest-substring-with-at-most-two-distinct-characters.py)
 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | Medium | [Python](./Python/binary-search-tree-iterator.py)
 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | [Python](./Python/number-of-islands.py)
+205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | [Python](./Python/isomorphic-strings.py)
 212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | Hard | [Python](./Python/word-search-ii.py)
 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | [Python](./Python/kth-largest-element-in-an-array.py)
 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Medium | [Python](./Python/combination-sum-iii.py)
