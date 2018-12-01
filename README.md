@@ -108,6 +108,7 @@
 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lowe) | Easy | [Python](./Python/guess-number-higher-or-lower.py)
 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | Medium | [Python](./Python/evaluate-division.py)
 418 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | [Python](./Python/fizz-buzz.py)
+418 | [Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/) | Medium | [Python](./Python/sentence-screen-fitting.py)
 422 | [Valid Word Square](https://leetcode.com/problems/valid-word-square/) | Easy | [Python](./Python/valid-word-square.py)
 425 | [Word Squares](https://leetcode.com/problems/word-squares/) | Hard | [Python](./Python/word-squares.py)
 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | Easy | [Python](./Python/path-sum-iii.py)
