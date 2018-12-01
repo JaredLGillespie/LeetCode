@@ -138,6 +138,7 @@
 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Easy | [Python](./Python/backspace-string-compare.py)
 849 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | Easy | [Python](./Python/maximize-distance-to-closest-person.py)
 854 | [K-Similar Strings](https://leetcode.com/problems/k-similar-strings/) | Hard | [Python](./Python/k-similar-strings.py)
+857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | Hard | [Python](./Python/minimum-cost-to-hire-k-workers.py)
 868 | [Binary Gap](https://leetcode.com/problems/binary-gap/) | Easy | [Python](./Python/binary-gap.py)
 871 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | Hard | [Python](./Python/minimum-number-of-refueling-stops.py)
 904 | [Fruit into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | Medium | [Python](./Python/fruit-into-baskets.py)
