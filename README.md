@@ -130,6 +130,7 @@
 708 | [Insert into a Cyclic Sorted List](https://leetcode.com/problems/insert-into-a-cyclic-sorted-list/) | Medium | [Python](./Python/insert-into-a-cyclic-sorted-list.py)
 729 | [My Calendar I](https://leetcode.com/problems/my-calendar-i/) | Medium | [Python](./Python/my-calendar-i.py)
 731 | [My Calendar II](https://leetcode.com/problems/my-calendar-ii/) | Medium | [Python](./Python/my-calendar-ii.py)
+734 | [Sentence Similarity](https://leetcode.com/problems/sentence-similarity/) | Easy | [Python](./Python/sentence-similarity.py)
 741 | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/) | Hard | [Python](./Python/cherry-pickup.py)
 765 | [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/) | Hard | [Python](./Python/couples-holding-hands.py)
 794 | [Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/) | Medium | [Python](./Python/valid-tic-tac-toe-state.py)
