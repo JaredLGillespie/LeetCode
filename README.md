@@ -134,6 +134,7 @@
 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Easy | [Python](./Python/backspace-string-compare.py)
 854 | [K-Similar Strings](https://leetcode.com/problems/k-similar-strings/) | Hard | [Python](./Python/k-similar-strings.py)
 868 | [Binary Gap](https://leetcode.com/problems/binary-gap/) | Easy | [Python](./Python/binary-gap.py)
+871 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | Hard | [Python](./Python/minimum-number-of-refueling-stops.py)
 904 | [Fruit into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | Medium | [Python](./Python/fruit-into-baskets.py)
 908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i) | Easy | [Python](./Python/smallest-range-i.py)
 909 | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders) | Medium | [Python](./Python/snakes-and-ladders.py)
