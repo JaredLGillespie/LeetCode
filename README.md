@@ -56,6 +56,7 @@
 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy | [Python](./Python/sqrtx.py)
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | [Python](./Python/climbing-stairs.py)
 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | Medium | [Python](./Python/set-matrix-zeroes.py)
+75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [Python](./Python/sort-colors.py)
 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | [Python](./Python/minimum-window-substring.py)
 78 | [Subsets](https://leetcode.com/problems/subsets/) | Medium | [Python](./Python/subsets.py)
 79 | [Word Search](https://leetcode.com/problems/word-search/) | Medium | [Python](./Python/word-search.py)
