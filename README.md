@@ -97,6 +97,7 @@
 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Medium | [Python](./Python/combination-sum-iii.py)
 250 | [Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/) | Medium | [Python](./Python/count-univalue-subtrees.py)
 256 | [Paint House](https://leetcode.com/problems/paint-house/) | Easy | [Python](./Python/paint-house.py)
+265 | [Paint House II](https://leetcode.com/problems/paint-house-ii/) | Hard | [Python](./Python/paint-house-ii.py)
 276 | [Paint Fence](https://leetcode.com/problems/paint-fence/) | Easy | [Python](./Python/paint-fence.py)
 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | Easy | [Python](./Python/first-bad-version.py)
 284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | Medium | [Python](./Python/peeking-iterator.py)
