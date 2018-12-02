@@ -49,6 +49,7 @@
 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | Hard | [Python](./Python/n-queens-ii.py)
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Easy | [Python](./Python/maximum-subarray.py)
 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | [Python](./Python/spiral-matrix.py)
+56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [Python](./Python/merge-intervals.py)
 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | Easy | [Python](./Python/length-of-last-word.py)
 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium | [Python](./Python/minimum-path-sum.py)
 66 | [Plus One](https://leetcode.com/problems/plus-one) | Easy | [Python](./Python/plus-one.py)
