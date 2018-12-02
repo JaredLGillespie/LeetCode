@@ -86,6 +86,7 @@
 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | [Python](./Python/linked-list-cycle.py)
 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | Medium | [Python](./Python/linked-list-cycle-ii.py)
 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | Hard | [Python](./Python/lru-cache.py)
+155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Easy | [Python](./Python/min-stack.py)
 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) | Hard | [Python](./Python/longest-substring-with-at-most-two-distinct-characters.py)
 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | Medium | [Python](./Python/binary-search-tree-iterator.py)
 198 | [House Robber](https://leetcode.com/problems/house-robber/) | Easy | [Python](./Python/house-robber.py)
