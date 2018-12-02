@@ -125,6 +125,7 @@
 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lowe) | Easy | [Python](./Python/guess-number-higher-or-lower.py)
 377 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | Medium | [Python](./Python/house-robber-iii.py)
 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium | [Python](./Python/insert-delete-getrandom-o1.py)
+381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | Hard | [Python](./Python/insert-delete-getrandom-o1-duplicates-allowed.py)
 388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) | Medium | [Python](./Python/longest-absolute-file-path.py)
 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | Medium | [Python](./Python/evaluate-division.py)
 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | [Python](./Python/fizz-buzz.py)
