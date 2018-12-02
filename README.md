@@ -104,6 +104,7 @@
 265 | [Paint House II](https://leetcode.com/problems/paint-house-ii/) | Hard | [Python](./Python/paint-house-ii.py)
 276 | [Paint Fence](https://leetcode.com/problems/paint-fence/) | Easy | [Python](./Python/paint-fence.py)
 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | Easy | [Python](./Python/first-bad-version.py)
+283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [Python](./Python/move-zeroes.py)
 284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | Medium | [Python](./Python/peeking-iterator.py)
 285 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | Medium | [Python](./Python/inorder-successor-in-bst.py)
 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | Medium | [Python](./Python/game-of-life.py)
