@@ -154,6 +154,7 @@
 734 | [Sentence Similarity](https://leetcode.com/problems/sentence-similarity/) | Easy | [Python](./Python/sentence-similarity.py)
 741 | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/) | Hard | [Python](./Python/cherry-pickup.py)
 765 | [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/) | Hard | [Python](./Python/couples-holding-hands.py)
+766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | Easy | [Python](./Python/toeplitz-matrix.py)
 794 | [Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/) | Medium | [Python](./Python/valid-tic-tac-toe-state.py)
 824 | [Goat Latin](https://leetcode.com/problems/goat-latin) | Easy | [Python](./Python/goat-latin.py)
 833 | [Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/) | Medium | [Python](./Python/find-and-replace-in-string.py)
