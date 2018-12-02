@@ -123,6 +123,7 @@
 340 | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | Hard | [Python](./Python/longest-substring-with-at-most-k-distinct-characters.py)
 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | Easy | [Python](./Python/moving-average-from-data-stream.py)
 348 | [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) | Medium | [Python](./Python/design-tic-tac-toe.py)
+356 | [Line Reflection](https://leetcode.com/problems/line-reflection/) | Medium | [Python](./Python/line-reflection.py)
 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) | Easy | [Python](./Python/logger-rate-limiter.py)
 361 | [Bomb Enemy](https://leetcode.com/problems/bomb-enemy/) | Medium | [Python](./Python/bomb-enemy.py)
 362 | [Design Hit Counter](https://leetcode.com/problems/design-hit-counter/) | Medium | [Python](./Python/design-hit-counter.py)
