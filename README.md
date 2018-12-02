@@ -113,7 +113,6 @@
 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | Easy | [Python](./Python/range-sum-query-immutable.py)
 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | Medium | [Python](./Python/range-sum-query-2d-immutable.py)
 305 | [Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/) | Hard | [Python](./Python/number-of-islands-ii.py)
-308 | [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/) | Hard | [Python](./Python/range-sum-query-2d-mutable.py)
 318 | [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) | Medium | [Python](./Python/maximum-product-of-word-lengths.py)
 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium | [Python](./Python/coin-change.py)
 340 | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | Hard | [Python](./Python/longest-substring-with-at-most-k-distinct-characters.py)
