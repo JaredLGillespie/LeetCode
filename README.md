@@ -104,6 +104,7 @@
 285 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | Medium | [Python](./Python/inorder-successor-in-bst.py)
 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | Medium | [Python](./Python/game-of-life.py)
 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard | [Python](./Python/find-median-from-data-stream.py)
+299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | Medium | [Python](./Python/bulls-and-cows.py)
 305 | [Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/) | Hard | [Python](./Python/number-of-islands-ii.py)
 318 | [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) | Medium | [Python](./Python/maximum-product-of-word-lengths.py)
 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium | [Python](./Python/coin-change.py)
