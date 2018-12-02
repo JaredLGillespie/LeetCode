@@ -123,6 +123,7 @@
 362 | [Design Hit Counter](https://leetcode.com/problems/design-hit-counter/) | Medium | [Python](./Python/design-hit-counter.py)
 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lowe) | Easy | [Python](./Python/guess-number-higher-or-lower.py)
 377 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | Medium | [Python](./Python/house-robber-iii.py)
+388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) | Medium | [Python](./Python/longest-absolute-file-path.py)
 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | Medium | [Python](./Python/evaluate-division.py)
 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | [Python](./Python/fizz-buzz.py)
 418 | [Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/) | Medium | [Python](./Python/sentence-screen-fitting.py)
