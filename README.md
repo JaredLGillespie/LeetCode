@@ -97,6 +97,7 @@
 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | [Python](./Python/kth-largest-element-in-an-array.py)
 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Medium | [Python](./Python/combination-sum-iii.py)
 246 | [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/) | Easy | [Python](./Python/strobogrammatic-number.py)
+247 | [Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/) | Medium | [Python](./Python/strobogrammatic-number-ii.py)
 250 | [Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/) | Medium | [Python](./Python/count-univalue-subtrees.py)
 256 | [Paint House](https://leetcode.com/problems/paint-house/) | Easy | [Python](./Python/paint-house.py)
 265 | [Paint House II](https://leetcode.com/problems/paint-house-ii/) | Hard | [Python](./Python/paint-house-ii.py)
