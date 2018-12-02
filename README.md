@@ -134,6 +134,7 @@
 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | Hard | [Python](./Python/insert-delete-getrandom-o1-duplicates-allowed.py)
 388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) | Medium | [Python](./Python/longest-absolute-file-path.py)
 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | Medium | [Python](./Python/evaluate-division.py)
+401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | Easy | [Python](./Python/binary-watch.py)
 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | [Python](./Python/fizz-buzz.py)
 418 | [Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/) | Medium | [Python](./Python/sentence-screen-fitting.py)
 422 | [Valid Word Square](https://leetcode.com/problems/valid-word-square/) | Easy | [Python](./Python/valid-word-square.py)
