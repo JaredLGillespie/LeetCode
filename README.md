@@ -173,6 +173,7 @@
 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | Easy | [Python](./Python/repeated-string-match.py)
 687 | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | Easy | [Python](./Python/longest-univalue-path.py)
 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | Medium | [Python](./Python/max-area-of-island.py)
+700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | [Python](./Python/search-in-a-binary-search-tree.py)
 708 | [Insert into a Cyclic Sorted List](https://leetcode.com/problems/insert-into-a-cyclic-sorted-list/) | Medium | [Python](./Python/insert-into-a-cyclic-sorted-list.py)
 729 | [My Calendar I](https://leetcode.com/problems/my-calendar-i/) | Medium | [Python](./Python/my-calendar-i.py)
 731 | [My Calendar II](https://leetcode.com/problems/my-calendar-ii/) | Medium | [Python](./Python/my-calendar-ii.py)
