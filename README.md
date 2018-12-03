@@ -88,6 +88,7 @@
 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | [Python](./Python/linked-list-cycle.py)
 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | Medium | [Python](./Python/linked-list-cycle-ii.py)
 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | Hard | [Python](./Python/lru-cache.py)
+149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | Hard | [Python](./Python/max-points-on-a-line.py)
 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | [Python](./Python/reverse-words-in-a-string.py)
 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Easy | [Python](./Python/min-stack.py)
 157 | [Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) | Easy | [Python](./Python/read-n-characters-given-read4.py)
