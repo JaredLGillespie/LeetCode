@@ -102,6 +102,7 @@
 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | [Python](./Python/kth-largest-element-in-an-array.py)
 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Medium | [Python](./Python/combination-sum-iii.py)
 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [Python](./Python/contains-duplicate.py)
+219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | [Python](./Python/contains-duplicate-ii.py)
 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | [Python](./Python/kth-smallest-element-in-a-bst.py)
 246 | [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/) | Easy | [Python](./Python/strobogrammatic-number.py)
 247 | [Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/) | Medium | [Python](./Python/strobogrammatic-number-ii.py)
