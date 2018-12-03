@@ -105,6 +105,7 @@
 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [Python](./Python/contains-duplicate.py)
 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | [Python](./Python/contains-duplicate-ii.py)
 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | Medium | [Python](./Python/contains-duplicate-iii.py)
+222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | Medium | [Python](./Python/count-complete-tree-nodes.py)
 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | [Python](./Python/kth-smallest-element-in-a-bst.py)
 246 | [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/) | Easy | [Python](./Python/strobogrammatic-number.py)
 247 | [Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/) | Medium | [Python](./Python/strobogrammatic-number-ii.py)
