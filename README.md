@@ -105,6 +105,7 @@
 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | [Python](./Python/kth-largest-element-in-an-array.py)
 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Medium | [Python](./Python/combination-sum-iii.py)
 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [Python](./Python/contains-duplicate.py)
+218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | Hard | [Python](./Python/the-skyline-problem.py)
 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | [Python](./Python/contains-duplicate-ii.py)
 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | Medium | [Python](./Python/contains-duplicate-iii.py)
 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | Medium | [Python](./Python/count-complete-tree-nodes.py)
