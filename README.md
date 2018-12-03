@@ -117,6 +117,7 @@
 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [Python](./Python/move-zeroes.py)
 284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | Medium | [Python](./Python/peeking-iterator.py)
 285 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | Medium | [Python](./Python/inorder-successor-in-bst.py)
+288 | [Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/) | Medium | [Python](./Python/unique-word-abbreviation.py)
 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | Medium | [Python](./Python/game-of-life.py)
 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard | [Python](./Python/find-median-from-data-stream.py)
 298 | [Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) | Medium | [Python](./Python/binary-tree-longest-consecutive-sequence.py)
