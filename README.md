@@ -114,6 +114,7 @@
 285 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | Medium | [Python](./Python/inorder-successor-in-bst.py)
 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | Medium | [Python](./Python/game-of-life.py)
 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard | [Python](./Python/find-median-from-data-stream.py)
+298 | [Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) | Medium | [Python](./Python/binary-tree-longest-consecutive-sequence.py)
 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | Medium | [Python](./Python/bulls-and-cows.py)
 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | Easy | [Python](./Python/range-sum-query-immutable.py)
 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | Medium | [Python](./Python/range-sum-query-2d-immutable.py)
