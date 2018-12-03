@@ -92,6 +92,7 @@
 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Easy | [Python](./Python/min-stack.py)
 157 | [Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) | Easy | [Python](./Python/read-n-characters-given-read4.py)
 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) | Hard | [Python](./Python/longest-substring-with-at-most-two-distinct-characters.py)
+163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges/) | Medium | [Python](./Python/missing-ranges.py)
 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | Medium | [Python](./Python/binary-search-tree-iterator.py)
 186 | [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) | Medium | [Python](./Python/reverse-words-in-a-string-ii.py)
 198 | [House Robber](https://leetcode.com/problems/house-robber/) | Easy | [Python](./Python/house-robber.py)
