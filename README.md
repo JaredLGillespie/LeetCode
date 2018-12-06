@@ -168,6 +168,7 @@
 616 | [Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/) | Medium | [Python](./Python/add-bold-tag-in-string.py)
 659 | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | Medium | [Python](./Python/split-array-into-consecutive-subsequences.py)
 666 | [Path Sum IV](https://leetcode.com/problems/path-sum-iv/) | Medium | [Python](./Python/path-sum-iv.py)
+669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | Easy | [Python](./Python/trim-a-binary-search-tree.py)
 671 | [Second Minimum Node in a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | Easy | [Python](./Python/second-minimum-node-in-a-binary-tree.py)
 681 | [Next Closest Time](https://leetcode.com/problems/next-closest-time/) | Medium | [Python](./Python/next-closest-time.py)
 683 | [K Empty Slots](https://leetcode.com/problems/k-empty-slots/) | Hard | [Python](./Python/k-empty-slots.py)
