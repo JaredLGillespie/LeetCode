@@ -161,6 +161,7 @@
 477 | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) | Easy | [Python](./Python/number-of-boomerangs.py)
 480 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | Hard | [Python](./Python/sliding-window-median.py)
 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | Easy | [Python](./Python/license-key-formatting.py)
+496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Easy | [Python](./Python/next-greater-element-i.py)
 498 | [Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/) | Hard | [Python](./Python/robot-room-cleaner.py)
 539 | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | Medium | [Python](./Python/minimum-time-difference.py)
 752 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | Easy | [Python](./Python/subtree-of-another-tree.py)
