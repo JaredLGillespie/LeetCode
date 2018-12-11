@@ -190,6 +190,7 @@
 762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | Easy | [Python](./Python/prime-number-of-set-bits-in-binary-representation.py)
 765 | [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/) | Hard | [Python](./Python/couples-holding-hands.py)
 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | Easy | [Python](./Python/toeplitz-matrix.py)
+771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | Easy | [Python](./Python/jewels-and-stones.py)
 794 | [Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/) | Medium | [Python](./Python/valid-tic-tac-toe-state.py)
 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) | Easy | [Python](./Python/subdomain-visit-count.py)
 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | Easy | [Python](./Python/most-common-word.py)
