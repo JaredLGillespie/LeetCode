@@ -98,6 +98,7 @@
 186 | [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) | Medium | [Python](./Python/reverse-words-in-a-string-ii.py)
 198 | [House Robber](https://leetcode.com/problems/house-robber/) | Easy | [Python](./Python/house-robber.py)
 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | [Python](./Python/number-of-islands.py)
+203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | [Python](./Python/remove-linked-list-elements.py)
 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | [Python](./Python/isomorphic-strings.py)
 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | [Python](./Python/implement-trie-prefix-tree.py)
 212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | Hard | [Python](./Python/word-search-ii.py)
