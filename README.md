@@ -116,6 +116,7 @@
 256 | [Paint House](https://leetcode.com/problems/paint-house/) | Easy | [Python](./Python/paint-house.py)
 259 | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/) | Medium | [Python](./Python/3sum-smaller.py)
 265 | [Paint House II](https://leetcode.com/problems/paint-house-ii/) | Hard | [Python](./Python/paint-house-ii.py)
+266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | Easy | [Python](./Python/palindrome-permutaiton.py)
 270 | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | Easy | [Python](./Python/closest-binary-search-tree-value.py)
 271 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | [Python](./Python/encode-and-decode-strings.py)
 276 | [Paint Fence](https://leetcode.com/problems/paint-fence/) | Easy | [Python](./Python/paint-fence.py)
