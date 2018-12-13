@@ -199,6 +199,7 @@
 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) | Easy | [Python](./Python/subdomain-visit-count.py)
 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | Easy | [Python](./Python/most-common-word.py)
 824 | [Goat Latin](https://leetcode.com/problems/goat-latin) | Easy | [Python](./Python/goat-latin.py)
+832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | Easy | [Python](./Python/flipping-an-image.py)
 833 | [Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/) | Medium | [Python](./Python/find-and-replace-in-string.py)
 843 | [Guess the Word](https://leetcode.com/problems/guess-the-word/) | Hard | [Python](./Python/guess-the-word.py)
 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Easy | [Python](./Python/backspace-string-compare.py)
