@@ -216,6 +216,7 @@
 857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | Hard | [Python](./Python/minimum-cost-to-hire-k-workers.py)
 868 | [Binary Gap](https://leetcode.com/problems/binary-gap/) | Easy | [Python](./Python/binary-gap.py)
 871 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | Hard | [Python](./Python/minimum-number-of-refueling-stops.py)
+876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [Python](./Python/middle-of-the-linked-list.py)
 904 | [Fruit into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | Medium | [Python](./Python/fruit-into-baskets.py)
 905 | [Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity/) | Easy | [Python](./Python/sort-array-by-parity.py)
 908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i) | Easy | [Python](./Python/smallest-range-i.py)
