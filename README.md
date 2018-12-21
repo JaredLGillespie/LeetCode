@@ -183,6 +183,7 @@
 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | Easy | [Python](./Python/trim-a-binary-search-tree.py)
 671 | [Second Minimum Node in a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | Easy | [Python](./Python/second-minimum-node-in-a-binary-tree.py)
 681 | [Next Closest Time](https://leetcode.com/problems/next-closest-time/) | Medium | [Python](./Python/next-closest-time.py)
+682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | Easy | [Python](./Python/baseball-game.py)
 683 | [K Empty Slots](https://leetcode.com/problems/k-empty-slots/) | Hard | [Python](./Python/k-empty-slots.py)
 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | Easy | [Python](./Python/repeated-string-match.py)
 687 | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | Easy | [Python](./Python/longest-univalue-path.py)
@@ -240,3 +241,4 @@
 946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | Medium | [Python](./Python/validate-stack-sequences.py)
 947 | [Most Stones Removed with Same Row or Columns](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | Hard | [Python](./Python/most-stones-removed-with-same-row-or-column.py)
 948 | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | Medium | [Python](./Python/bag-of-tokens.py)
+953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | Easy | [Python](./Python/verifying-an-alien-dictionary.py)
