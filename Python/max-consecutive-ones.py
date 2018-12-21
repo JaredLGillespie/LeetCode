@@ -15,6 +15,4 @@ class Solution:
                 max_ones = max(max_ones, cur_ones)
                 cur_ones = 0
 
-        max_ones = max(max_ones, cur_ones)
-
-        return max_ones
+        return max(max_ones, cur_ones)
