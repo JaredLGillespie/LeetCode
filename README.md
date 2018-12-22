@@ -99,6 +99,7 @@
 198 | [House Robber](https://leetcode.com/problems/house-robber/) | Easy | [Python](./Python/house-robber.py)
 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | [Python](./Python/number-of-islands.py)
 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | [Python](./Python/remove-linked-list-elements.py)
+204 | [Count Primes](https://leetcode.com/problems/count-primes/) | Easy | [Python](./Python/count-primes.py)
 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | [Python](./Python/isomorphic-strings.py)
 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [Python](./Python/reverse-linked-list.py)
 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | [Python](./Python/implement-trie-prefix-tree.py)
