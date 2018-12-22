@@ -201,6 +201,7 @@
 687 | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | Easy | [Python](./Python/longest-univalue-path.py)
 693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | Easy | [Python](./Python/binary-number-with-alternating-bits.py)
 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | Medium | [Python](./Python/max-area-of-island.py)
+697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) | Easy | [Python](./Python/degree-of-an-array.py)
 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | [Python](./Python/search-in-a-binary-search-tree.py)
 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | Easy | [Python](./Python/design-hashmap.py)
 708 | [Insert into a Cyclic Sorted List](https://leetcode.com/problems/insert-into-a-cyclic-sorted-list/) | Medium | [Python](./Python/insert-into-a-cyclic-sorted-list.py)
