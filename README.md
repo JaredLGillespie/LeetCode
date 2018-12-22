@@ -120,6 +120,7 @@
 250 | [Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/) | Medium | [Python](./Python/count-univalue-subtrees.py)
 256 | [Paint House](https://leetcode.com/problems/paint-house/) | Easy | [Python](./Python/paint-house.py)
 259 | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/) | Medium | [Python](./Python/3sum-smaller.py)
+263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | Easy | [Python](./Python/ugly-number.py)
 265 | [Paint House II](https://leetcode.com/problems/paint-house-ii/) | Hard | [Python](./Python/paint-house-ii.py)
 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | Easy | [Python](./Python/palindrome-permutaiton.py)
 270 | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | Easy | [Python](./Python/closest-binary-search-tree-value.py)
