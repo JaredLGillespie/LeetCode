@@ -96,6 +96,7 @@
 163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges/) | Medium | [Python](./Python/missing-ranges.py)
 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | Medium | [Python](./Python/binary-search-tree-iterator.py)
 186 | [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) | Medium | [Python](./Python/reverse-words-in-a-string-ii.py)
+191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | [Python](./Python/number-of-1-bits.py)
 198 | [House Robber](https://leetcode.com/problems/house-robber/) | Easy | [Python](./Python/house-robber.py)
 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | [Python](./Python/number-of-islands.py)
 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | [Python](./Python/remove-linked-list-elements.py)
