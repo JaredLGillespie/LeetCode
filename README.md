@@ -171,6 +171,7 @@
 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | [Python](./Python/max-consecutive-ones.py)
 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Easy | [Python](./Python/next-greater-element-i.py)
 498 | [Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/) | Hard | [Python](./Python/robot-room-cleaner.py)
+521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | Easy | [Python](./Python/longest-uncommon-subsequence-i.py)
 539 | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | Medium | [Python](./Python/minimum-time-difference.py)
 552 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | Easy | [Python](./Python/subtree-of-another-tree.py)
 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy | [Python](./Python/reverse-words-in-a-string-iii.py)
