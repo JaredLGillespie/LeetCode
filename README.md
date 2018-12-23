@@ -150,6 +150,7 @@
 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | [Python](./Python/reverse-vowels-of-a-string.py)
 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | Easy | [Python](./Python/moving-average-from-data-stream.py)
 348 | [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) | Medium | [Python](./Python/design-tic-tac-toe.py)
+350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | [Python](./Python/intersection-of-two-arrays.py)
 356 | [Line Reflection](https://leetcode.com/problems/line-reflection/) | Medium | [Python](./Python/line-reflection.py)
 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) | Easy | [Python](./Python/logger-rate-limiter.py)
 361 | [Bomb Enemy](https://leetcode.com/problems/bomb-enemy/) | Medium | [Python](./Python/bomb-enemy.py)
