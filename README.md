@@ -94,6 +94,7 @@
 157 | [Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) | Easy | [Python](./Python/read-n-characters-given-read4.py)
 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) | Hard | [Python](./Python/longest-substring-with-at-most-two-distinct-characters.py)
 163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges/) | Medium | [Python](./Python/missing-ranges.py)
+167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Easy | [Python](./Python/two-sum-ii-input-array-is-sorted.py)
 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | Medium | [Python](./Python/binary-search-tree-iterator.py)
 186 | [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) | Medium | [Python](./Python/reverse-words-in-a-string-ii.py)
 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | [Python](./Python/number-of-1-bits.py)
