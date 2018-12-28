@@ -127,6 +127,7 @@
 247 | [Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/) | Medium | [Python](./Python/strobogrammatic-number-ii.py)
 250 | [Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/) | Medium | [Python](./Python/count-univalue-subtrees.py)
 256 | [Paint House](https://leetcode.com/problems/paint-house/) | Easy | [Python](./Python/paint-house.py)
+258 | [Add Digits](https://leetcode.com/problems/add-digits/) | Easy | [Python](./Python/add-digits.py)
 259 | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/) | Medium | [Python](./Python/3sum-smaller.py)
 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | Easy | [Python](./Python/ugly-number.py)
 265 | [Paint House II](https://leetcode.com/problems/paint-house-ii/) | Hard | [Python](./Python/paint-house-ii.py)
