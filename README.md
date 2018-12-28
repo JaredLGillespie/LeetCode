@@ -253,6 +253,7 @@
 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [Python](./Python/middle-of-the-linked-list.py)
 884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | Easy | [Python](./Python/uncommon-words-from-two-sentences.py)
 888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) | Easy | [Python](./Python/fair-candy-swap.py)
+892 | [Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/) | Easy | [Python](./Python/surface-area-of-3d-shapes.py)
 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | Easy | [Python](./Python/monotonic-array.py)
 904 | [Fruit into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | Medium | [Python](./Python/fruit-into-baskets.py)
 905 | [Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity/) | Easy | [Python](./Python/sort-array-by-parity.py)
