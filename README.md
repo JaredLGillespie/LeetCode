@@ -248,6 +248,7 @@
 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Easy | [Python](./Python/peak-index-in-a-mountain-array.py)
 854 | [K-Similar Strings](https://leetcode.com/problems/k-similar-strings/) | Hard | [Python](./Python/k-similar-strings.py)
 857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | Hard | [Python](./Python/minimum-cost-to-hire-k-workers.py)
+860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | Easy | [Python](./Python/lemonade-change.py)
 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | Easy | [Python](./Python/transpose-matrix.py)
 868 | [Binary Gap](https://leetcode.com/problems/binary-gap/) | Easy | [Python](./Python/binary-gap.py)
 871 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | Hard | [Python](./Python/minimum-number-of-refueling-stops.py)
