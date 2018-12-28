@@ -234,6 +234,7 @@
 794 | [Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/) | Medium | [Python](./Python/valid-tic-tac-toe-state.py)
 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | Easy | [Python](./Python/unique-morse-code-words.py)
 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) | Easy | [Python](./Python/subdomain-visit-count.py)
+812 | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | Easy | [Python](./Python/largest-triangle-area.py)
 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | Easy | [Python](./Python/most-common-word.py)
 824 | [Goat Latin](https://leetcode.com/problems/goat-latin) | Easy | [Python](./Python/goat-latin.py)
 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | Easy | [Python](./Python/flipping-an-image.py)
