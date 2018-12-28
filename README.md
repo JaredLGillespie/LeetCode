@@ -189,6 +189,7 @@
 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | [Python](./Python/max-consecutive-ones.py)
 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Easy | [Python](./Python/next-greater-element-i.py)
 498 | [Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/) | Hard | [Python](./Python/robot-room-cleaner.py)
+520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | Easy | [Python](./Python/detect-capital.py)
 521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | Easy | [Python](./Python/longest-uncommon-subsequence-i.py)
 539 | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | Medium | [Python](./Python/minimum-time-difference.py)
 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | {Python](./Python/diameter-of-binary-tree.py)
