@@ -122,6 +122,7 @@
 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy | [Python](./Python/palindrome-linked-list.py)
 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Easy | [Python](./Python/delete-node-in-a-linked-list.py)
 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [Python](./Python/valid-anagram.py)
+243 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) | Easy | [Python](./Python/shortest-word-distance.py)
 246 | [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/) | Easy | [Python](./Python/strobogrammatic-number.py)
 247 | [Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/) | Medium | [Python](./Python/strobogrammatic-number-ii.py)
 250 | [Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/) | Medium | [Python](./Python/count-univalue-subtrees.py)
