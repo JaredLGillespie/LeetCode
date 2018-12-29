@@ -170,6 +170,7 @@
 377 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | Medium | [Python](./Python/house-robber-iii.py)
 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium | [Python](./Python/insert-delete-getrandom-o1.py)
 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | Hard | [Python](./Python/insert-delete-getrandom-o1-duplicates-allowed.py)
+383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | [Python](./Python/ransom-note.py)
 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | [Python](./Python/first-unique-character-in-a-string.py)
 388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) | Medium | [Python](./Python/longest-absolute-file-path.py)
 393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | Medium | [Python](./Python/utf-8-validation.py)
