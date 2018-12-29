@@ -184,6 +184,7 @@
 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Easy | [Python](./Python/find-all-anagrams-in-a-string.py)
 443 | [String Compression](https://leetcode.com/problems/string-compression/) | Easy | [Python](./Python/string-compression.py)
 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | [Python](./Python/find-all-numbers-disappeared-in-an-array.py)
+453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | Easy | [Python](./Python/minimum-moves-to-equal-array-elements.py)
 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | Easy | [Python](./Python/hamming-distance.py)
 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | Easy | [Python](./Python/island-perimeter.py)
 475 | [Heaters](https://leetcode.com/problems/heaters/) | Easy | [Python](./Python/heaters.py)
