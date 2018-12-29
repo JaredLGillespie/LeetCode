@@ -119,6 +119,7 @@
 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | Medium | [Python](./Python/count-complete-tree-nodes.py)
 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | [Python](./Python/invert-binary-tree.py)
 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | [Python](./Python/kth-smallest-element-in-a-bst.py)
+232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | [Python](./Python/implement-queue-using-stacks.py)
 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy | [Python](./Python/palindrome-linked-list.py)
 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Easy | [Python](./Python/delete-node-in-a-linked-list.py)
 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [Python](./Python/valid-anagram.py)
