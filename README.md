@@ -236,6 +236,7 @@
 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | Easy | [Python](./Python/jewels-and-stones.py)
 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | Easy | [Python](./Python/letter-case-permutation.py)
 794 | [Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/) | Medium | [Python](./Python/valid-tic-tac-toe-state.py)
+796 | [Rotate String](https://leetcode.com/problems/rotate-string/) | Easy | [Python](./Python/rotate-string.py)
 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | Easy | [Python](./Python/unique-morse-code-words.py)
 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) | Easy | [Python](./Python/subdomain-visit-count.py)
 812 | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | Easy | [Python](./Python/largest-triangle-area.py)
