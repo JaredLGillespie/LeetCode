@@ -225,6 +225,7 @@
 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | Medium | [Python](./Python/max-area-of-island.py)
 697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) | Easy | [Python](./Python/degree-of-an-array.py)
 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | [Python](./Python/search-in-a-binary-search-tree.py)
+703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | Easy | [Python](./kth-largest-element-in-a-stream.py)
 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | Easy | [Python](./Python/design-hashmap.py)
 708 | [Insert into a Cyclic Sorted List](https://leetcode.com/problems/insert-into-a-cyclic-sorted-list/) | Medium | [Python](./Python/insert-into-a-cyclic-sorted-list.py)
 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/submissions/) | Easy | [Python](./Python/to-lower-case.py)
