@@ -210,6 +210,7 @@
 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | Easy | [Python](./Python/merge-two-binary-trees.py)
 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | Easy | [Python](./Python/maximum-product-of-three-numbers.py)
 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | Easy | [Python](./Python/average-of-levels-in-binary-tree.py)
+642 | [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) | Hard | [Python](./Python/design-search-autocomplete-system.py)
 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | Easy | [Python](./Python/robot-return-to-origin.py)
 659 | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | Medium | [Python](./Python/split-array-into-consecutive-subsequences.py)
 666 | [Path Sum IV](https://leetcode.com/problems/path-sum-iv/) | Medium | [Python](./Python/path-sum-iv.py)
