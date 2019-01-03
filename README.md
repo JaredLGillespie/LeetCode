@@ -147,6 +147,7 @@
 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | Easy | [Python](./Python/nim-game.py)
 293 | [Flip Game](https://leetcode.com/problems/flip-game/submissions/) | Easy | [Python](./Python/flip-game.py)
 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard | [Python](./Python/find-median-from-data-stream.py)
+297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Easy | [Python](./Python/serialize-and-deserialize-binary-tree.py)
 298 | [Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) | Medium | [Python](./Python/binary-tree-longest-consecutive-sequence.py)
 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | Medium | [Python](./Python/bulls-and-cows.py)
 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | Easy | [Python](./Python/range-sum-query-immutable.py)
