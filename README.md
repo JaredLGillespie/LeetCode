@@ -139,6 +139,7 @@
 265 | [Paint House II](https://leetcode.com/problems/paint-house-ii/) | Hard | [Python](./Python/paint-house-ii.py)
 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | Easy | [Python](./Python/palindrome-permutaiton.py)
 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [Python](./Python/missing-number.py)
+269 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | Hard | [Python](./Python/alien-dictionary.py)
 270 | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | Easy | [Python](./Python/closest-binary-search-tree-value.py)
 271 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | [Python](./Python/encode-and-decode-strings.py)
 276 | [Paint Fence](https://leetcode.com/problems/paint-fence/) | Easy | [Python](./Python/paint-fence.py)
