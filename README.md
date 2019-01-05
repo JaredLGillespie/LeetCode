@@ -230,6 +230,7 @@
 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | Easy | [Python](./Python/repeated-string-match.py)
 687 | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | Easy | [Python](./Python/longest-univalue-path.py)
 693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | Easy | [Python](./Python/binary-number-with-alternating-bits.py)
+694 | [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/) | Medium | [Python](./Python/number-of-distinct-islands.py)
 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | Medium | [Python](./Python/max-area-of-island.py)
 697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) | Easy | [Python](./Python/degree-of-an-array.py)
 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | [Python](./Python/search-in-a-binary-search-tree.py)
