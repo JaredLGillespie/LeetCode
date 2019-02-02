@@ -297,3 +297,4 @@
 947 | [Most Stones Removed with Same Row or Columns](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | Hard | [Python](./Python/most-stones-removed-with-same-row-or-column.py)
 948 | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | Medium | [Python](./Python/bag-of-tokens.py)
 953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | Easy | [Python](./Python/verifying-an-alien-dictionary.py)
+961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | Easy | [Python](./Python/n-repeated-element-in-size-2n-array.py)
