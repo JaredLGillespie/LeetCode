@@ -290,6 +290,7 @@
 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | Easy | [Python](./Python/reverse-only-letters.py)
 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | Easy | [Python](./Python/unique-email-addresses.py)
 931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | Medium | [Python](./Python/minimum-falling-path-sum.py)
+933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Easy | [Python](./Python/number-of-recent-calls.py)
 941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | Easy | [Python](./Python/valid-mountain-array.py)
 942 | [DI String Match](https://leetcode.com/problems/di-string-match/) | Easy | [Python](./Python/di-string-match.py)
 944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | Medium | [Python](./Python/delete-columns-to-make-sorted.py)
