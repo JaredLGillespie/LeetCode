@@ -288,6 +288,7 @@
 915 | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals) | Medium | [Python](./Python/partition-array-into-disjoint-intervals.py)
 916 | [Word Subsets](https://leetcode.com/problems/word-subsets) | Medium | [Python](./Python/word-subsets.py)
 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | Easy | [Python](./Python/reverse-only-letters.py)
+922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | Easy | [Python](./Python/sort-array-by-parity-ii.py)
 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | Easy | [Python](./Python/unique-email-addresses.py)
 931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | Medium | [Python](./Python/minimum-falling-path-sum.py)
 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Easy | [Python](./Python/number-of-recent-calls.py)
