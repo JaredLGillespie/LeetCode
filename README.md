@@ -211,6 +211,7 @@
 552 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | Easy | [Python](./Python/subtree-of-another-tree.py)
 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy | [Python](./Python/reverse-words-in-a-string-iii.py)
 559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | Easy | [Python](./Python/maximum-depth-of-n-ary-tree.py)
+561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | Easy | [Python](./Python/array-partition-i.py)
 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | Easy | [Python](./Python/distribute-candies.py)
 616 | [Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/) | Medium | [Python](./Python/add-bold-tag-in-string.py)
 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | Easy | [Python](./Python/merge-two-binary-trees.py)
