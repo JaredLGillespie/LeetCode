@@ -301,4 +301,5 @@
 953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | Easy | [Python](./Python/verifying-an-alien-dictionary.py)
 961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | Easy | [Python](./Python/n-repeated-element-in-size-2n-array.py)
 965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | Easy | [Python](./Python/univalued-binary-tree.py)
+973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Easy | [Python](./Python/k-closest-points-to-origin.py)
 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | [Python](./Python/squares-of-a-sorted-array.py)
