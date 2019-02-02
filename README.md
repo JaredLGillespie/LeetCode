@@ -206,6 +206,7 @@
 498 | [Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/) | Hard | [Python](./Python/robot-room-cleaner.py)
 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | Easy | [Python](./Python/detect-capital.py)
 521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | Easy | [Python](./Python/longest-uncommon-subsequence-i.py)
+531 | [Lonely Pixel I](https://leetcode.com/problems/lonely-pixel-i/) | Medium | [Python](./Python/lonely-pixel-i.py)
 539 | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | Medium | [Python](./Python/minimum-time-difference.py)
 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | {Python](./Python/diameter-of-binary-tree.py)
 552 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | Easy | [Python](./Python/subtree-of-another-tree.py)
