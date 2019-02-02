@@ -189,6 +189,7 @@
 418 | [Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/) | Medium | [Python](./Python/sentence-screen-fitting.py)
 422 | [Valid Word Square](https://leetcode.com/problems/valid-word-square/) | Easy | [Python](./Python/valid-word-square.py)
 425 | [Word Squares](https://leetcode.com/problems/word-squares/) | Hard | [Python](./Python/word-squares.py)
+429 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | Easy | [Python](./Python/n-ary-tree-level-order-traversal.py)
 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | Easy | [Python](./Python/path-sum-iii.py)
 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Easy | [Python](./Python/find-all-anagrams-in-a-string.py)
 443 | [String Compression](https://leetcode.com/problems/string-compression/) | Easy | [Python](./Python/string-compression.py)
