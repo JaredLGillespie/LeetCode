@@ -242,6 +242,7 @@
 708 | [Insert into a Cyclic Sorted List](https://leetcode.com/problems/insert-into-a-cyclic-sorted-list/) | Medium | [Python](./Python/insert-into-a-cyclic-sorted-list.py)
 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/submissions/) | Easy | [Python](./Python/to-lower-case.py)
 716 | [Max Stack](https://leetcode.com/problems/max-stack/) | Easy | [Python](./Python/max-stack.py)
+717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | Easy | [Python](./Python/1-bit-and-2-bit-characters.py)
 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | Easy | [Python](./Python/self-dividing-numbers.py)
 729 | [My Calendar I](https://leetcode.com/problems/my-calendar-i/) | Medium | [Python](./Python/my-calendar-i.py)
 731 | [My Calendar II](https://leetcode.com/problems/my-calendar-ii/) | Medium | [Python](./Python/my-calendar-ii.py)
