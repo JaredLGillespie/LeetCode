@@ -280,6 +280,7 @@
 871 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | Hard | [Python](./Python/minimum-number-of-refueling-stops.py)
 873 | [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/) | Medium | [Python](./Python/length-of-longest-fibonacci-subsequence.py)
 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [Python](./Python/middle-of-the-linked-list.py)
+883 | [Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/) | Easy | [Python](./Python/projection-area-of-3d-shapes.py)
 884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | Easy | [Python](./Python/uncommon-words-from-two-sentences.py)
 888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) | Easy | [Python](./Python/fair-candy-swap.py)
 892 | [Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/) | Easy | [Python](./Python/surface-area-of-3d-shapes.py)
