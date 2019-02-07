@@ -313,3 +313,4 @@
 965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | Easy | [Python](./Python/univalued-binary-tree.py)
 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Easy | [Python](./Python/k-closest-points-to-origin.py)
 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | [Python](./Python/squares-of-a-sorted-array.py)
+985 | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | Easy | [Python](./Python/sum-of-even-numbers-after-queries.py)
