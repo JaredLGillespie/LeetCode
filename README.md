@@ -266,6 +266,7 @@
 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) | Easy | [Python](./Python/subdomain-visit-count.py)
 812 | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | Easy | [Python](./Python/largest-triangle-area.py)
 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | Easy | [Python](./Python/most-common-word.py)
+821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | Easy | [Python](./Python/shortest-distance-to-a-character.py)
 824 | [Goat Latin](https://leetcode.com/problems/goat-latin) | Easy | [Python](./Python/goat-latin.py)
 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | Easy | [Python](./Python/flipping-an-image.py)
 833 | [Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/) | Medium | [Python](./Python/find-and-replace-in-string.py)
