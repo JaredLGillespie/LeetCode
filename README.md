@@ -288,6 +288,7 @@
 888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) | Easy | [Python](./Python/fair-candy-swap.py)
 892 | [Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/) | Easy | [Python](./Python/surface-area-of-3d-shapes.py)
 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | Easy | [Python](./Python/monotonic-array.py)
+897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | Easy | [Python](./Python/increasing-order-search-tree.py)
 904 | [Fruit into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | Medium | [Python](./Python/fruit-into-baskets.py)
 905 | [Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity/) | Easy | [Python](./Python/sort-array-by-parity.py)
 908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i) | Easy | [Python](./Python/smallest-range-i.py)
