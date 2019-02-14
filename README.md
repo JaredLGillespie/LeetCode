@@ -238,6 +238,7 @@
 683 | [K Empty Slots](https://leetcode.com/problems/k-empty-slots/) | Hard | [Python](./Python/k-empty-slots.py)
 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | Easy | [Python](./Python/repeated-string-match.py)
 687 | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | Easy | [Python](./Python/longest-univalue-path.py)
+690 | [Employee Importance](https://leetcode.com/problems/employee-importance/) | Easy | [Python](./Python/employee-importance.py)
 693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | Easy | [Python](./Python/binary-number-with-alternating-bits.py)
 694 | [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/) | Medium | [Python](./Python/number-of-distinct-islands.py)
 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | Medium | [Python](./Python/max-area-of-island.py)
