@@ -181,6 +181,7 @@
 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | [Python](./Python/ransom-note.py)
 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | [Python](./Python/first-unique-character-in-a-string.py)
 388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) | Medium | [Python](./Python/longest-absolute-file-path.py)
+389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | Easy | [Python](./Python/find-the-difference.py)
 393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | Medium | [Python](./Python/utf-8-validation.py)
 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | Medium | [Python](./Python/evaluate-division.py)
 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | Easy | [Python](./Python/binary-watch.py)
