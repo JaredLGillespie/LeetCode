@@ -256,6 +256,7 @@
 734 | [Sentence Similarity](https://leetcode.com/problems/sentence-similarity/) | Easy | [Python](./Python/sentence-similarity.py)
 741 | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/) | Hard | [Python](./Python/cherry-pickup.py)
 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy | [Python](./Python/min-cost-climbing-stairs.py)
+748 | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) | Easy | [Python](./Python/shortest-completing-word.py)
 760 | [Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/) | Easy | [Python](./Python/find-anagram-mappings.py)
 762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | Easy | [Python](./Python/prime-number-of-set-bits-in-binary-representation.py)
 765 | [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/) | Hard | [Python](./Python/couples-holding-hands.py)
