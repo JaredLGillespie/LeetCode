@@ -322,5 +322,6 @@
 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Easy | [Python](./Python/k-closest-points-to-origin.py)
 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | [Python](./Python/squares-of-a-sorted-array.py)
 985 | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | Easy | [Python](./Python/sum-of-even-numbers-after-queries.py)
+1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | Easy | [Python](./Python/find-common-characters.py)
 1003 | [Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/) | Medium | [Python](./Python/check-if-a-word-is-valid-after-substitutions.py)
 1004 | [Max Consecutive Ones III](https://leetcode.com/contest/problems/max-consecutive-ones-iii/) | Medium | [Python](./Python/max-consecutive-ones-iii.py)
